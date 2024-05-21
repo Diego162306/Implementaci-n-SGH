@@ -1,6 +1,8 @@
 # Implementaci-n-SGH
 <div align="center">
-<p><img src="https://content.presentermedia.com/files/animsp/00003000/3076/hospital_building_helicopter_pa_lg_wm.gif" alt="GIF" width="400" height="230"></p><p><a 
+<p><img src="https://content.presentermedia.com/files/animsp/00003000/3076/hospital_building_helicopter_pa_lg_wm.gif" alt="GIF" width="400" height="230"></p><p><
+                                                                                                                                                                  
+ <div align="left">                                                                                                                                                                 
 Descripción 
 El objetivo es diseñar un diagrama de clases para un sistema de gestión de hospital que incorpore diversos elementos de la programación orientada a objetos, tales como asociaciones, herencias, realizaciones, agregaciones, composiciones, dependencias, clases abstractas, interfaces, enumeradores, atributos de solo lectura y atributos de clase.
 
