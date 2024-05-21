@@ -50,6 +50,18 @@ public class CitasMedicas {
     private Paciente paciente;
     private Doctor doctor;
 
-
+    //Getters y Setters
+    public Paciente getPaciente() {
+        return paciente;
+    }
+    public void setPaciente(Paciente paciente) {
+        this.paciente = paciente;
+    }
+    public Doctor getDoctor() {
+        return doctor;
+    }
+    public void setDoctor(Doctor doctor) {
+        this.doctor = doctor;
+    }
 
 }

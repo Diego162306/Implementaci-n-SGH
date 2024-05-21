@@ -9,5 +9,19 @@ public class Enfermero extends Persona {
     private Paciente paciente;
     private Doctor[] doctorList;
 
+    //Getters y Setters
+    public Paciente getPaciente() {
+        return paciente;
+    }
+    public void setPaciente(Paciente paciente) {
+        this.paciente = paciente;
+    }
+    public Doctor[] getDoctorList() {
+        return doctorList;
+    }
+    public void setDoctorList(Doctor[] doctorList) {
+        this.doctorList = doctorList;
+    }
+
 
 }
