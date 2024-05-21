@@ -1,0 +1,7 @@
+package SistemaGestionHospital;
+
+public enum Especialidad {
+    CARDIOLOGIA, PEDIATRIA, PSIQUIATRIA, GINECOLOGIA, OTORRINOLARINGOLOGIA, HEMATOLOGIA, DERMATOLOGIA;
+
+
+}
