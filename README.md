@@ -58,6 +58,4 @@ Incluir en el readme la imagen del diagrama de clases actualizado
 Seleccionar un lengauje Java o Python(Django), para su implementación
 </details>
 <p><img src="https://raw.githubusercontent.com/Diego162306/Implementaci-n-SGH/main/Captura%20de%20pantalla%202024-05-21%20102026.png"></p><p>
-
 </details>
-<p><img src=""></p><p><a 
