@@ -38,4 +38,29 @@ public abstract class Persona {
         this.direccion = direccion;
     }
 
+    //Relaciones
+    private Paciente paciente;
+    private Doctor doctor;
+    private Enfermero enfermero;
+
+    //Getters y Setters
+    public Paciente getPaciente() {
+        return paciente;
+    }
+    public void setPaciente(Paciente paciente) {
+        this.paciente = paciente;
+    }
+    public Doctor getDoctor() {
+        return doctor;
+    }
+    public void setDoctor(Doctor doctor) {
+        this.doctor = doctor;
+    }
+    public Enfermero getEnfermero() {
+        return enfermero;
+    }
+    public void setEnfermero(Enfermero enfermero) {
+        this.enfermero = enfermero;
+    }
+
 }
